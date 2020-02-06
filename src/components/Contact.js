@@ -36,7 +36,7 @@ proident, sunt in culpa qui officia deserunt
               </ListItem>
 
               <ListItem>
-                <ListItemContent style={{fontSize:'30px', fontFamily:''}} ><i className="fa fa-envelope" />someone@example.omc</ListItemContent>
+                <ListItemContent style={{fontSize:'30px', fontFamily:''}} ><i className="fa fa-envelope" />lailahgrant19@gmail.com</ListItemContent>
               </ListItem>
 
               <ListItem>

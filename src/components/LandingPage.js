@@ -16,7 +16,7 @@ export default class LandingPage extends Component {
                 <p>HTML/CSS | Bootstrap | JavaScript | React | React-Native | Nodejs | MongoDB</p>
                 <div className="social-links"  >
                 {/*linked in */}
-                      <a target="_blank"><i className="fab fa-github"></i></a>
+                      <a target="_blank" href="https://github.com/lailahgrant"><i className="fab fa-github"></i></a>
 
                       {/*github */}
                       <a target="_blank"><i class="fab fa-linkedin-in"></i></a>
