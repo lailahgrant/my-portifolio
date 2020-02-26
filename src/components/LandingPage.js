@@ -10,24 +10,26 @@ export default class LandingPage extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img src={myimage} alt="mypic" className="avatar-img"/>
+            
             <div className="banner-text">
                 <h1>Full Stack Web Developer</h1>
                 <hr />
                 <p>HTML/CSS | Bootstrap | JavaScript | React | React-Native | Nodejs | MongoDB</p>
                 <div className="social-links"  >
                 {/*github */}
-                      <a target="_blank" href="https://github.com/lailahgrant"><i className="fab fa-github"></i></a>
+                      <a target="_blank" href="#" rel="noopener noreferrer" href="https://github.com/lailahgrant"><i className="fab fa-github"></i></a>
 
                       {/*linked in */}
-                      <a target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                      <a target="_blank" href="#" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
 
                       {/*linked in */}
-                      <a target="_blank"><i className="fab fa-free-code-camp"></i></a>
+                      <a target="_blank" href="#" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
 
                       {/*linked in */}
-                      <a target="_blank"><i className="fab fa-youtube-square"aria-hidden="true"></i></a>
+                      <a target="_blank" href="#" rel="noopener noreferrer"><i className="fab fa-facebook"aria-hidden="true"></i></a>
                 </div>
             </div>
+
           </Cell>
         </Grid>
       </div>
