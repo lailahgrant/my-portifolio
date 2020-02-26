@@ -15,10 +15,10 @@ export default class LandingPage extends Component {
                 <hr />
                 <p>HTML/CSS | Bootstrap | JavaScript | React | React-Native | Nodejs | MongoDB</p>
                 <div className="social-links"  >
-                {/*linked in */}
+                {/*github */}
                       <a target="_blank" href="https://github.com/lailahgrant"><i className="fab fa-github"></i></a>
 
-                      {/*github */}
+                      {/*linked in */}
                       <a target="_blank"><i class="fab fa-linkedin-in"></i></a>
 
                       {/*linked in */}
