@@ -10,9 +10,10 @@ export default class Resume extends Component {
     return (
       <div>
        <Grid>
-         <Cell className="" col={4}><div style={{textAlign:'center'}}>
+         <Cell className="" col={4}>
+           <div style={{textAlign:'center'}}>
            <img src={logo} alt="lailah" height="200px" />
-         </div>
+           </div>
 
         <h2 style={{paddingTop:'2em'}}>LAilah Grant</h2>
         <h2 style={{color:'gray'}}>Programmer</h2>
